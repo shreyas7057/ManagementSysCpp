@@ -1,0 +1,14 @@
+
+	 XYZ Airlines
+	 Ticket
+	 Customer ID: 0
+
+	 Customer Name: 
+
+	 Customer Gender: 
+
+	 Description
+
+	 Destination: 
+
+	 Flight cost: 0
